@@ -1,0 +1,12 @@
+<ExportPresets LastType="XmlContentExport">
+  <Preset DisplayName="" Type="XmlContentExport">
+    <ExportSettings Type="XmlContentExport">
+      <Filename>D:\Documents\Unity Projects\Dialogue System\Support\_TEST DS2 2018.1\Assets\Tutorials\Articy Tutorial\Articy Tutorial Project.xml</Filename>
+      <ExportMarkup>1</ExportMarkup>
+      <ExportQueries>1</ExportQueries>
+      <ApplyTransformations>0</ApplyTransformations>
+      <WriteNamespace>1</WriteNamespace>
+      <WriteAllVariables>0</WriteAllVariables>
+    </ExportSettings>
+  </Preset>
+</ExportPresets>

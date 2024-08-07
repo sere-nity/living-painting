@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>AEE9C856833E543EAAC818E3E86BDEA1003864DF8544E25357CBC8F11A40FF49</Signature>
+  <Content>
+    <Project Guid="c9f334aa-a259-432d-a684-398715f97c87">
+      <DisplayName Value="Dialogue System Template"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="bec49097-1bbc-4937-8f89-17c0333af38c"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="635819403490786017"/>
+      <PartitionHash Value="50A5EB2E19E256028DAC824832EF30BB6B3592E9C11E00D72CCBF373827D3C7B"/>
+      <SaveFileVersion Value="55"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>

@@ -1,0 +1,1412 @@
+﻿<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<Export xmlns="http://www.nevigo.com/schemas/articydraft/3.1/XmlContentExport_FullProject.xsd" Version="3.1" CreatorTool="articy:draft" CreatorVersion="3.1.11" CreatedOn="2018-09-06T01:43:42Z">
+  <Settings>
+    <ExportMarkup>1</ExportMarkup>
+    <ExportQueries>1</ExportQueries>
+    <WriteNamespace>1</WriteNamespace>
+    <WriteAllVariables>0</WriteAllVariables>
+  </Settings>
+  <Content>
+    <Project Id="0x0100000000000001">
+      <DisplayName>Articy Tutorial Project</DisplayName>
+      <TechnicalName/>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037927937</Url>
+    </Project>
+    <ProjectSettings Id="0x03000000F917511B">
+      <FlowSettings>
+        <BuiltInScriptSupport>1</BuiltInScriptSupport>
+        <GridSize>25</GridSize>
+        <GridSizeEnforced>0</GridSizeEnforced>
+        <SpacingHorizontal>50</SpacingHorizontal>
+        <SpacingVertical>50</SpacingVertical>
+        <SpacingEnforced>0</SpacingEnforced>
+      </FlowSettings>
+      <JourneySettings>
+        <BackgroundImageMode>FromNode</BackgroundImageMode>
+        <BackgroundImagePositioningMode>Filling</BackgroundImagePositioningMode>
+        <BackgroundColorMode>Custom</BackgroundColorMode>
+        <BackgroundColor>#798F93</BackgroundColor>
+        <BackgroundColorGradientMode>On</BackgroundColorGradientMode>
+        <Duration>10</Duration>
+        <TransitionMode>Animated</TransitionMode>
+      </JourneySettings>
+      <LocationSettings>
+        <ShowDisplayNameForZone>1</ShowDisplayNameForZone>
+        <DropShadowForZone>1</DropShadowForZone>
+        <DisplayNameSizeForZone>11</DisplayNameSizeForZone>
+        <DisplayNameColorForZone>#FFFFFF</DisplayNameColorForZone>
+        <ShowDisplayNameForPath>1</ShowDisplayNameForPath>
+        <DropShadowForPath>1</DropShadowForPath>
+        <DisplayNameSizeForPath>11</DisplayNameSizeForPath>
+        <DisplayNameColorForPath>#FFFFFF</DisplayNameColorForPath>
+        <ShowDisplayNameForImage>0</ShowDisplayNameForImage>
+        <DropShadowForImage>1</DropShadowForImage>
+        <DisplayNameSizeForImage>11</DisplayNameSizeForImage>
+        <DisplayNameColorForImage>#FFFFFF</DisplayNameColorForImage>
+        <ShowDisplayNameForSpot>1</ShowDisplayNameForSpot>
+        <DropShadowForSpot>1</DropShadowForSpot>
+        <DisplayNameColorForSpot>#FFFFFF</DisplayNameColorForSpot>
+        <SpotStyleKind>Flag</SpotStyleKind>
+        <SpotStyleSize>Large</SpotStyleSize>
+        <ShowDisplayNameForLink>1</ShowDisplayNameForLink>
+        <DropShadowForLink>1</DropShadowForLink>
+        <DisplayNameColorForLink>#FFFFFF</DisplayNameColorForLink>
+        <LinkStyleKind>PreviewImage</LinkStyleKind>
+        <LinkStyleSize>Large</LinkStyleSize>
+        <DropShadowForText>1</DropShadowForText>
+      </LocationSettings>
+      <ExternalApplications/>
+    </ProjectSettings>
+    <Assets Id="0x030000004C3DAF54">
+      <DisplayName>Assets</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Assets>
+    <AssetsUserFolder Id="0x01000000000000FE">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Images</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_FD9D76B4</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xFD9D76B4</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928190</Url>
+    </AssetsUserFolder>
+    <AssetsUserFolder Id="0x0100000000000100">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Videos</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_288F4983</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x288F4983</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928192</Url>
+    </AssetsUserFolder>
+    <AssetsUserFolder Id="0x0100000000000102">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Audio</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_D663714F</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xD663714F</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928194</Url>
+    </AssetsUserFolder>
+    <AssetsUserFolder Id="0x0100000000000104">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Documents</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_C0A4E9C0</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xC0A4E9C0</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928196</Url>
+    </AssetsUserFolder>
+    <AssetsUserFolder Id="0x0100000000000106">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Miscellaneous</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_D2645C6E</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xD2645C6E</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928198</Url>
+    </AssetsUserFolder>
+    <Documents Id="0x03000000103AA2F0">
+      <DisplayName>Documents</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Documents>
+    <Entities Id="0x03000000AC61A2B3">
+      <DisplayName>Entities</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Entities>
+    <EnumerationPropertyDefinition Id="0x010000000000010E" BasedOn="0x030000000D3CFAD3">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Quest State</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Quest_State</TechnicalName>
+      <DefaultValue>1</DefaultValue>
+      <Values Count="5">
+        <EnumValue>
+          <Value>1</Value>
+          <TechnicalName>unassigned</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">unassigned</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+        <EnumValue>
+          <Value>2</Value>
+          <TechnicalName>active</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">active</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+        <EnumValue>
+          <Value>3</Value>
+          <TechnicalName>success</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">success</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+        <EnumValue>
+          <Value>4</Value>
+          <TechnicalName>failure</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">failure</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+        <EnumValue>
+          <Value>5</Value>
+          <TechnicalName>abandoned</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">abandoned</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+      </Values>
+    </EnumerationPropertyDefinition>
+    <Features Id="0x03000000D2404DC0">
+      <DisplayName>Features</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Features>
+    <Flow Id="0x0300000043CE43F7">
+      <DisplayName>Flow</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Flow>
+    <GlobalVariables Id="0x030000002B4F4C54">
+      <DisplayName>Global Variables</DisplayName>
+      <Color>#C8E2E7</Color>
+    </GlobalVariables>
+    <Journeys Id="0x03000000236F7272">
+      <DisplayName>Journeys</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Journeys>
+    <Locations Id="0x030000003140D3AC">
+      <DisplayName>Locations</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Locations>
+    <ObjectTemplates Id="0x030000009AF68DCD">
+      <DisplayName>Templates</DisplayName>
+      <Color>#C8E2E7</Color>
+    </ObjectTemplates>
+    <ObjectTemplates Id="0x0300000029CF057C">
+      <DisplayName>Template Design</DisplayName>
+      <Color>#C8E2E7</Color>
+    </ObjectTemplates>
+    <PropertyTemplates Id="0x030000002C0951AE">
+      <DisplayName>Property Definitions</DisplayName>
+      <Color>#C8E2E7</Color>
+    </PropertyTemplates>
+    <TypedObjectTemplates Id="0x0300000078B45A71">
+      <DisplayName>Entities</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000006D1BC275">
+      <DisplayName>Flow Fragments</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000030B5ACF">
+      <DisplayName>Dialogue Fragments</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000008DD5C0F2">
+      <DisplayName>Dialogues</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000092CF598E">
+      <DisplayName>Locations</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000030635118">
+      <DisplayName>Assets</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000A715C057">
+      <DisplayName>Zones</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000005314E813">
+      <DisplayName>Paths</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000004264B29C">
+      <DisplayName>Spots</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000FB371D5C">
+      <DisplayName>Links</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000013DF3A1A">
+      <DisplayName>Hubs</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000ADA9FA17">
+      <DisplayName>Jumps</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000ECC00F83">
+      <DisplayName>Documents</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000F514339C">
+      <DisplayName>Texts</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000096812FC1">
+      <DisplayName>Texts (in locations)</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000CC5A07F0">
+      <DisplayName>Images (in locations)</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000DCC67F9D">
+      <DisplayName>Conditions</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000BA022E2F">
+      <DisplayName>Instructions</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedPropertyTemplates Id="0x030000006E2C178B">
+      <DisplayName>Numbers</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x03000000BB12F1B8">
+      <DisplayName>Booleans</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x030000006F82D78E">
+      <DisplayName>Texts</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x0300000037DCE3F0">
+      <DisplayName>Drop-down lists</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x030000003630A240">
+      <DisplayName><![CDATA[Slots & Strips]]></DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x03000000D745C449">
+      <DisplayName>Scripts</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <Asset Id="0x010000000000075D">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">TroopGreen</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_EFB29016</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xEFB29016</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929821</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x010000000000075D" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>TroopGreen(065D).png</AssetFilename>
+      <AssetPath>Assets\Partition(273d8420-c276-4dc5-9aa1-fea87456f9a2)\</AssetPath>
+      <OriginalSource>file:///D:/Documents/Unity Projects/Dialogue System/Support/_TEST DS2 2018.1/Assets/Plugins/Pixel Crushers/Dialogue System/Demo/Art/Textures/Portraits/TroopGreen.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x0100000000000760">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">TroopRed</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_254953B1</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x254953B1</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929824</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x0100000000000760" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>TroopRed(0660).png</AssetFilename>
+      <AssetPath>Assets\Partition(273d8420-c276-4dc5-9aa1-fea87456f9a2)\</AssetPath>
+      <OriginalSource>file:///D:/Documents/Unity Projects/Dialogue System/Support/_TEST DS2 2018.1/Assets/Plugins/Pixel Crushers/Dialogue System/Demo/Art/Textures/Portraits/TroopRed.png</OriginalSource>
+    </Asset>
+    <Condition Id="0x0100000000000742">
+      <DisplayName>RiddleMaster.met == false</DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Cnd_3AFD8215</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x3AFD8215</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929794</Url>
+      <Features Count="0"/>
+      <Expression>RiddleMaster.met == false</Expression>
+      <Pins Count="3">
+        <Pin Id="0x0100000000000744" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000745" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000746" Index="1" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="250" Y="-75"/>
+      <Size Width="225" Height="100"/>
+      <ZIndex>0</ZIndex>
+    </Condition>
+    <Connection Id="0x0100000000000747">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_F27FF51E</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929799</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000073C" PinRef="0x010000000000073F"/>
+      <Target IdRef="0x0100000000000742" PinRef="0x0100000000000744"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x0100000000000769">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_17B4EF0F</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929833</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000750" PinRef="0x0100000000000754"/>
+      <Target IdRef="0x0100000000000764" PinRef="0x0100000000000767"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000076B">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_22E80DA5</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929835</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000764" PinRef="0x0100000000000768"/>
+      <Target IdRef="0x010000000000073C" PinRef="0x0100000000000740"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000077B">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_6E6B31A4</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929851</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000074A" PinRef="0x010000000000074E"/>
+      <Target IdRef="0x0100000000000776" PinRef="0x0100000000000779"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x0100000000000781">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_5EC039EB</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929857</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000074A" PinRef="0x010000000000074E"/>
+      <Target IdRef="0x010000000000077C" PinRef="0x010000000000077F"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x0100000000000783">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_783DE52D</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929859</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000776" PinRef="0x010000000000077A"/>
+      <Target IdRef="0x010000000000073C" PinRef="0x0100000000000740"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000078A">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_522BC869</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929866</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000077C" PinRef="0x0100000000000780"/>
+      <Target IdRef="0x0100000000000785" PinRef="0x0100000000000788"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000078C">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_8740B5D1</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929868</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000785" PinRef="0x0100000000000789"/>
+      <Target IdRef="0x010000000000073C" PinRef="0x0100000000000740"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000078D">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_38B70BCC</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929869</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000742" PinRef="0x0100000000000745"/>
+      <Target IdRef="0x0100000000000750" PinRef="0x0100000000000753"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000078E">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_7D4AA5A5</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929870</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000742" PinRef="0x0100000000000746"/>
+      <Target IdRef="0x010000000000074A" PinRef="0x010000000000074D"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Dialogue Id="0x010000000000073C">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Riddle Master Conversation</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Dlg_F0DCC3ED</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xF0DCC3ED</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929788</Url>
+      <Features Count="0"/>
+      <References Count="2">
+        <Reference IdRef="0x0100000000000731"/>
+        <Reference IdRef="0x0100000000000757"/>
+      </References>
+      <Pins Count="2">
+        <Pin Id="0x010000000000073F" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000740" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="-8" Y="0"/>
+      <Size Width="291" Height="200"/>
+      <ZIndex>0</ZIndex>
+    </Dialogue>
+    <DialogueFragment Id="0x010000000000074A">
+      <DisplayName><![CDATA[Riddle Master: "Here's your riddle: What has one he..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Here&#39;s your riddle: What has one head, one foot, and four legs?</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_35023339</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x35023339</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929802</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000074D" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000074E" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="550" Y="0"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>2</ZIndex>
+      <Speaker IdRef="0x0100000000000757"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Closeup Right,speaker,1); {{default}}</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000750">
+      <DisplayName><![CDATA[Riddle Master: "Greetings! I'm the Riddlemaster. Re..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Greetings! I&#39;m the Riddlemaster. Return to me when you&#39;re ready to try my riddle.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_216B1C38</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x216B1C38</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929808</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000753" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000754" Index="0" Semantic="Output">
+          <Expression>RiddleMaster.met = true</Expression>
+        </Pin>
+      </Pins>
+      <Position X="550" Y="-350"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>4</ZIndex>
+      <Speaker IdRef="0x0100000000000757"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Closeup,speaker,1); {{default}}</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000764">
+      <DisplayName><![CDATA[Player: "Okay. I'll return when I'm ready."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Okay. I&#39;ll return when I&#39;m ready.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_E4621115</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xE4621115</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929828</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000767" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000768" Index="0" Semantic="Output">
+          <Expression><![CDATA[SetQuestState("Riddle Quest", "active");
+ShowAlert("New Quest: Riddle")]]></Expression>
+        </Pin>
+      </Pins>
+      <Position X="850" Y="-350"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>6</ZIndex>
+      <Speaker IdRef="0x0100000000000731"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000776">
+      <DisplayName><![CDATA[Player: "I don't know. I'll think it over an..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">I don&#39;t know. I&#39;ll think it over and return.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_5747BFFF</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x5747BFFF</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929846</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000779" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000077A" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="850" Y="-125"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>9</ZIndex>
+      <Speaker IdRef="0x0100000000000731"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000077C">
+      <DisplayName><![CDATA[Player: "A bed!"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">A bed!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_4ACA9F7C</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x4ACA9F7C</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929852</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000077F" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000780" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="850" Y="100"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>11</ZIndex>
+      <Speaker IdRef="0x0100000000000731"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000785">
+      <DisplayName><![CDATA[Riddle Master: "Correct! Good job."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Correct! Good job.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_71C59950</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x71C59950</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929861</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000788" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000789" Index="0" Semantic="Output">
+          <Expression><![CDATA[SetQuestState("Riddle Quest", "success");
+ShowAlert("Quest Complete: Riddle")]]></Expression>
+        </Pin>
+      </Pins>
+      <Position X="1150" Y="100"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>14</ZIndex>
+      <Speaker IdRef="0x0100000000000757"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <Entity Id="0x0100000000000731" ObjectTemplateReference="0x0100000000000095" ObjectTemplateReferenceName="Player_Template">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Player</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ntt_486D98CD</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x486D98CD</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929777</Url>
+      <Features Count="3">
+        <Feature Name="DefaultExtendedCharacterFeature" IdRef="0x0100000000000043">
+          <Properties Count="6">
+            <String Name="Motivation"/>
+            <String Name="InnerConflict"/>
+            <String Name="Skills"/>
+            <String Name="Fears"/>
+            <String Name="Habits"/>
+            <String Name="FurtherDetails"/>
+          </Properties>
+        </Feature>
+        <Feature Name="DefaultBasicCharacterFeature" IdRef="0x0100000000000008">
+          <Properties Count="8">
+            <Number Name="Age"/>
+            <String Name="Species"/>
+            <String Name="BornIn"/>
+            <Enum Name="Sex"/>
+            <String Name="Occupation"/>
+            <String Name="Accent"/>
+            <String Name="Personality"/>
+            <String Name="Appearance"/>
+          </Properties>
+        </Feature>
+        <Feature Name="Player_Properties" IdRef="0x01000000000002FC">
+          <Properties Count="1">
+            <Boolean Name="IsPlayer">1</Boolean>
+          </Properties>
+        </Feature>
+      </Features>
+      <References Count="0"/>
+      <PreviewImage IdRef="0x010000000000075D" Mode="FromAsset">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+    </Entity>
+    <Entity Id="0x0100000000000757" ObjectTemplateReference="0x010000000000006B" ObjectTemplateReferenceName="NPC_Template">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Riddle Master</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ntt_D74A7ABF</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xD74A7ABF</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929815</Url>
+      <Features Count="2">
+        <Feature Name="DefaultBasicCharacterFeature" IdRef="0x0100000000000008">
+          <Properties Count="8">
+            <Number Name="Age"/>
+            <String Name="Species"/>
+            <String Name="BornIn"/>
+            <Enum Name="Sex"/>
+            <String Name="Occupation"/>
+            <String Name="Accent"/>
+            <String Name="Personality"/>
+            <String Name="Appearance"/>
+          </Properties>
+        </Feature>
+        <Feature Name="NPC_Properties" IdRef="0x01000000000006DC">
+          <Properties Count="1">
+            <Boolean Name="IsNPC">1</Boolean>
+          </Properties>
+        </Feature>
+      </Features>
+      <References Count="0"/>
+      <PreviewImage IdRef="0x0100000000000760" Mode="FromAsset">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+    </Entity>
+    <Entity Id="0x0100000000000770" ObjectTemplateReference="0x010000000000010A" ObjectTemplateReferenceName="Quest">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Riddle Quest</LocalizedString>
+      </DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">The Riddle Master wants you to solve a riddle.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ntt_2A706A8B</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x2A706A8B</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929840</Url>
+      <Features Count="1">
+        <Feature Name="Quest_Properties" IdRef="0x01000000000001A8">
+          <Properties Count="14">
+            <Boolean Name="IsQuest">1</Boolean>
+            <Boolean Name="Trackable">1</Boolean>
+            <Boolean Name="Track">1</Boolean>
+            <Boolean Name="Abandonable">0</Boolean>
+            <Enum Name="State">1</Enum>
+            <String Name="Failure_Description"/>
+            <LocalizableText Name="Success_Description" Count="1">
+              <LocalizedString Lang=""><![CDATA[You successfully answered the Riddle Master's riddle.]]></LocalizedString>
+            </LocalizableText>
+            <Number Name="Entry_Count">0</Number>
+            <String Name="Entry_1"/>
+            <Enum Name="Entry_1_State">1</Enum>
+            <String Name="Entry_2"/>
+            <Enum Name="Entry_2_State">1</Enum>
+            <String Name="Entry_3"/>
+            <Enum Name="Entry_3_State">1</Enum>
+          </Properties>
+        </Feature>
+      </Features>
+      <References Count="0"/>
+    </Entity>
+    <FeatureDefinition Id="0x01000000000002FC" BasedOn="0x0100000000000128">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Player Properties</LocalizedString>
+      </DisplayName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928700</Url>
+      <TechnicalName>Player_Properties</TechnicalName>
+      <PropertyDefinitions Count="1">
+        <PropertyDefinitionRef IdRef="0x01000000000002FD"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FeatureDefinition Id="0x01000000000004FB" BasedOn="0x010000000000013B">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Item Properties</LocalizedString>
+      </DisplayName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929211</Url>
+      <TechnicalName>Item_Properties</TechnicalName>
+      <PropertyDefinitions Count="1">
+        <PropertyDefinitionRef IdRef="0x01000000000004FC"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FeatureDefinition Id="0x01000000000001A8" BasedOn="0x0100000000000148">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Quest Properties</LocalizedString>
+      </DisplayName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928360</Url>
+      <TechnicalName>Quest_Properties</TechnicalName>
+      <PropertyDefinitions Count="14">
+        <PropertyDefinitionRef IdRef="0x01000000000001A9"/>
+        <PropertyDefinitionRef IdRef="0x010000000000020D"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000210"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000213"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001CC"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001D2"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001D8"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001E0"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001E7"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001ED"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001F2"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001F8"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001FD"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000203"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FeatureDefinition Id="0x0100000000000008">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Basic Character Properties</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DefaultBasicCharacterFeature</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037927944</Url>
+      <PropertyDefinitions Count="8">
+        <PropertyDefinitionRef IdRef="0x010000000000000A"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000011"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000017"/>
+        <PropertyDefinitionRef IdRef="0x010000000000001D"/>
+        <PropertyDefinitionRef IdRef="0x010000000000002B"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000031"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000037"/>
+        <PropertyDefinitionRef IdRef="0x010000000000003D"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FeatureDefinition Id="0x0100000000000043">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Extended Character Properties</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DefaultExtendedCharacterFeature</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928003</Url>
+      <PropertyDefinitions Count="6">
+        <PropertyDefinitionRef IdRef="0x0100000000000045"/>
+        <PropertyDefinitionRef IdRef="0x010000000000004B"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000051"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000057"/>
+        <PropertyDefinitionRef IdRef="0x010000000000005D"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000063"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FeatureDefinition Id="0x0100000000000128">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Player Properties</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Player_Properties</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928232</Url>
+      <PropertyDefinitions Count="1">
+        <PropertyDefinitionRef IdRef="0x010000000000012C"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FeatureDefinition Id="0x010000000000013B">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Item Properties</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Item_Properties</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928251</Url>
+      <PropertyDefinitions Count="1">
+        <PropertyDefinitionRef IdRef="0x010000000000013F"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FeatureDefinition Id="0x0100000000000148">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Quest Properties</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Quest_Properties</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928264</Url>
+      <PropertyDefinitions Count="14">
+        <PropertyDefinitionRef IdRef="0x010000000000014C"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001B7"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001BD"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001C5"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001CC"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001D2"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001D8"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001E0"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001E7"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001ED"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001F2"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001F8"/>
+        <PropertyDefinitionRef IdRef="0x01000000000001FD"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000203"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FeatureDefinition Id="0x01000000000005C9">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Dialogue Fragment Properties</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Dialogue_Fragment_Properties</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929417</Url>
+      <PropertyDefinitions Count="3">
+        <PropertyDefinitionRef IdRef="0x01000000000005D4"/>
+        <PropertyDefinitionRef IdRef="0x01000000000005FA"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000600"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FeatureDefinition Id="0x01000000000006DC">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">NPC Properties</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>NPC_Properties</TechnicalName>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929692</Url>
+      <PropertyDefinitions Count="1">
+        <PropertyDefinitionRef IdRef="0x01000000000006E0"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <ObjectTemplateDefinition Id="0x010000000000006B">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">NPC</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>NPC_Template</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x4E6C8ADF</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928043</Url>
+      <FeatureDefinitions Count="2">
+        <FeatureDefinitionRef IdRef="0x01000000000006DC"/>
+        <FeatureDefinitionRef IdRef="0x0100000000000008"/>
+      </FeatureDefinitions>
+    </ObjectTemplateDefinition>
+    <ObjectTemplateDefinition Id="0x0100000000000095">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Player</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Player_Template</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xDA49B2A9</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928085</Url>
+      <FeatureDefinitions Count="3">
+        <FeatureDefinitionRef IdRef="0x01000000000002FC"/>
+        <FeatureDefinitionRef IdRef="0x0100000000000008"/>
+        <FeatureDefinitionRef IdRef="0x0100000000000043"/>
+      </FeatureDefinitions>
+    </ObjectTemplateDefinition>
+    <ObjectTemplateDefinition Id="0x0100000000000108">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Item</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Item</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x71D79E9B</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928200</Url>
+      <FeatureDefinitions Count="1">
+        <FeatureDefinitionRef IdRef="0x01000000000004FB"/>
+      </FeatureDefinitions>
+    </ObjectTemplateDefinition>
+    <ObjectTemplateDefinition Id="0x010000000000010A">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Quest</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Quest</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x220CB5E0</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037928202</Url>
+      <FeatureDefinitions Count="1">
+        <FeatureDefinitionRef IdRef="0x01000000000001A8"/>
+      </FeatureDefinitions>
+    </ObjectTemplateDefinition>
+    <ObjectTemplateDefinition Id="0x01000000000005DE">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Dialogue Fragment</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Dialogue_Fragment</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xFE227ED6</ShortId>
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929438</Url>
+      <FeatureDefinitions Count="1">
+        <FeatureDefinitionRef IdRef="0x01000000000005C9"/>
+      </FeatureDefinitions>
+    </ObjectTemplateDefinition>
+    <BooleanPropertyDefinition Id="0x030000000759BA31">
+      <IsMandatory>0</IsMandatory>
+    </BooleanPropertyDefinition>
+    <NumberPropertyDefinition Id="0x03000000BB84646C">
+      <IsMandatory>0</IsMandatory>
+      <DisplayThousandsSeparator>0</DisplayThousandsSeparator>
+    </NumberPropertyDefinition>
+    <TextPropertyDefinition Id="0x0300000069DB68B1">
+      <IsMandatory>0</IsMandatory>
+      <IsLocalized>0</IsLocalized>
+      <AllowsLinebreaks>0</AllowsLinebreaks>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x03000000BC9B4687">
+      <IsMandatory>0</IsMandatory>
+      <IsLocalized>0</IsLocalized>
+      <AllowsLinebreaks>1</AllowsLinebreaks>
+    </TextPropertyDefinition>
+    <EnumerationPropertyDefinition Id="0x030000000D3CFAD3">
+      <IsMandatory>0</IsMandatory>
+      <IsLocalized>0</IsLocalized>
+    </EnumerationPropertyDefinition>
+    <ReferenceSlotPropertyDefinition Id="0x0300000035A1BEB5">
+      <IsMandatory>0</IsMandatory>
+      <ObjectTypes Count="19">
+        <ObjectType Type="FlowFragment" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Dialogue" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="DialogueFragment" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Condition" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Instruction" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Hub" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Jump" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Entity" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Location" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Link" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Path" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Spot" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Zone" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="LocationText" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="LocationImage" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Document" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="TextObject" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Journey" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="0"/>
+        <ObjectType Type="Asset" AllowUnsetTemplate="1" AllowAllTemplates="1" Count="5">
+          <AllowedCategory Name="Image"/>
+          <AllowedCategory Name="Video"/>
+          <AllowedCategory Name="Audio"/>
+          <AllowedCategory Name="Document"/>
+          <AllowedCategory Name="Misc"/>
+        </ObjectType>
+      </ObjectTypes>
+    </ReferenceSlotPropertyDefinition>
+    <NumberPropertyDefinition Id="0x010000000000000A" BasedOn="0x03000000BB84646C">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Age</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Age</TechnicalName>
+    </NumberPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000011" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Species</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Species</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000017" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Born in</LocalizedString>
+      </DisplayName>
+      <TechnicalName>BornIn</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <EnumerationPropertyDefinition Id="0x010000000000001D" BasedOn="0x030000000D3CFAD3">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Sex</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Sex</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+      <Values Count="3">
+        <EnumValue>
+          <Value>0</Value>
+          <TechnicalName>Male</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">Male</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+        <EnumValue>
+          <Value>1</Value>
+          <TechnicalName>Female</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">Female</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+        <EnumValue>
+          <Value>2</Value>
+          <TechnicalName>Unknown</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">Unknown</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+      </Values>
+    </EnumerationPropertyDefinition>
+    <TextPropertyDefinition Id="0x010000000000002B" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Profession</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Occupation</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000031" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Voice</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Accent</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000037" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Personality</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Personality</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x010000000000003D" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Appearance</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Appearance</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000045" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Goals</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Motivation</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x010000000000004B" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Inner Conflict</LocalizedString>
+      </DisplayName>
+      <TechnicalName>InnerConflict</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000051" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Skills</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Skills</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000057" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Weaknesses</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Fears</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x010000000000005D" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Quirks / Habits</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Habits</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000063" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Further Details</LocalizedString>
+      </DisplayName>
+      <TechnicalName>FurtherDetails</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x010000000000012C" BasedOn="0x030000000759BA31">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Is Player</LocalizedString>
+      </DisplayName>
+      <TechnicalName>IsPlayer</TechnicalName>
+      <TooltipText>Actor is a player character</TooltipText>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x010000000000013F" BasedOn="0x030000000759BA31">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">IsItem</LocalizedString>
+      </DisplayName>
+      <TechnicalName>IsItem</TechnicalName>
+      <TooltipText>Entity is an item</TooltipText>
+      <DefaultValue>1</DefaultValue>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x010000000000014C" BasedOn="0x030000000759BA31">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">IsQuest</LocalizedString>
+      </DisplayName>
+      <TechnicalName>IsQuest</TechnicalName>
+      <TooltipText>Entity is a quest</TooltipText>
+      <DefaultValue>1</DefaultValue>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x01000000000001B7" BasedOn="0x030000000759BA31">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Trackable</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Trackable</TechnicalName>
+      <TooltipText>Quest can be shown in quest tracker HUD</TooltipText>
+      <DefaultValue>1</DefaultValue>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x01000000000001BD" BasedOn="0x030000000759BA31">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Track</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Track</TechnicalName>
+      <TooltipText>Show quest in quest tracker HUD (Trackable must also be ticked)</TooltipText>
+      <DefaultValue>1</DefaultValue>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x01000000000001C5" BasedOn="0x030000000759BA31">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Abandonable</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Abandonable</TechnicalName>
+      <TooltipText>Quest can be abandoned in quest log window</TooltipText>
+      <DefaultValue>0</DefaultValue>
+    </BooleanPropertyDefinition>
+    <EnumerationPropertyDefinition Id="0x01000000000001CC" BasedOn="0x010000000000010E">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">State</LocalizedString>
+      </DisplayName>
+      <TechnicalName>State</TechnicalName>
+      <TooltipText>Quest state</TooltipText>
+    </EnumerationPropertyDefinition>
+    <TextPropertyDefinition Id="0x01000000000001D2" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Failure Description</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Failure_Description</TechnicalName>
+      <TooltipText>Shown when quest is in failure state</TooltipText>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x01000000000001D8" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Success Description</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Success_Description</TechnicalName>
+      <TooltipText>Shown when quest is in success state</TooltipText>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <NumberPropertyDefinition Id="0x01000000000001E0" BasedOn="0x03000000BB84646C">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Entry Count</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Entry_Count</TechnicalName>
+      <TooltipText>Number of quest entries (sub-tasks) in the quest</TooltipText>
+      <DefaultValue>0</DefaultValue>
+      <MinValue>0</MinValue>
+    </NumberPropertyDefinition>
+    <TextPropertyDefinition Id="0x01000000000001E7" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Entry 1</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Entry_1</TechnicalName>
+    </TextPropertyDefinition>
+    <EnumerationPropertyDefinition Id="0x01000000000001ED" BasedOn="0x010000000000010E">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Entry 1 State</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Entry_1_State</TechnicalName>
+    </EnumerationPropertyDefinition>
+    <TextPropertyDefinition Id="0x01000000000001F2" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Entry 2</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Entry_2</TechnicalName>
+    </TextPropertyDefinition>
+    <EnumerationPropertyDefinition Id="0x01000000000001F8" BasedOn="0x010000000000010E">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Entry 2 State</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Entry_2_State</TechnicalName>
+    </EnumerationPropertyDefinition>
+    <TextPropertyDefinition Id="0x01000000000001FD" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Entry 3</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Entry_3</TechnicalName>
+      <TooltipText>Add more entries to the template if needed</TooltipText>
+    </TextPropertyDefinition>
+    <EnumerationPropertyDefinition Id="0x0100000000000203" BasedOn="0x010000000000010E">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Entry 3 State</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Entry_3_State</TechnicalName>
+    </EnumerationPropertyDefinition>
+    <ReferenceSlotPropertyDefinition Id="0x01000000000005D4" BasedOn="0x0300000035A1BEB5">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Conversant Entity</LocalizedString>
+      </DisplayName>
+      <TechnicalName>ConversantEntity</TechnicalName>
+      <TooltipText>Alternate entity being addressed by the speaker. Leave blank to use the non-speaking actor</TooltipText>
+      <ObjectTypes Count="1">
+        <ObjectType Type="Entity" AllowUnsetTemplate="0" AllowAllTemplates="0" Count="3">
+          <AllowedTemplate Name="Item" IdRef="0x0100000000000108"/>
+          <AllowedTemplate Name="NPC_Template" IdRef="0x010000000000006B"/>
+          <AllowedTemplate Name="Player_Template" IdRef="0x0100000000000095"/>
+        </ObjectType>
+      </ObjectTypes>
+    </ReferenceSlotPropertyDefinition>
+    <TextPropertyDefinition Id="0x01000000000005FA" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Sequence</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Sequence</TechnicalName>
+      <TooltipText><![CDATA[Sequencer commands to play during line. Leave blank to use Dialogue Manager's Default Sequence]]></TooltipText>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000600" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Response Menu Sequence</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Response_Menu_Sequence</TechnicalName>
+      <TooltipText>Sequencer commands to play during response menu, if menu follows this line. Leave blank for none</TooltipText>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x01000000000006E0" BasedOn="0x030000000759BA31">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Is NPC</LocalizedString>
+      </DisplayName>
+      <TechnicalName>IsNPC</TechnicalName>
+      <TooltipText>Actor is a non-player character</TooltipText>
+      <DefaultValue>1</DefaultValue>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x01000000000002FD" BasedOn="0x010000000000012C">
+      <DefaultValue>1</DefaultValue>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x01000000000004FC" BasedOn="0x010000000000013F">
+      <TooltipText>Entity is an item</TooltipText>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x01000000000001A9" BasedOn="0x010000000000014C">
+      <TooltipText>Entity is a quest</TooltipText>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x010000000000020D" BasedOn="0x01000000000001B7">
+      <TooltipText>Quest can be shown in quest tracker HUD</TooltipText>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x0100000000000210" BasedOn="0x01000000000001BD">
+      <TooltipText>Show quest in quest tracker HUD (Trackable must also be ticked)</TooltipText>
+    </BooleanPropertyDefinition>
+    <BooleanPropertyDefinition Id="0x0100000000000213" BasedOn="0x01000000000001C5">
+      <TooltipText>Quest can be abandoned in quest log window</TooltipText>
+    </BooleanPropertyDefinition>
+    <VariableSet Id="0x0100000000000748">
+      <Url>articy://localhost/view/c9f334aa-a259-432d-a684-398715f97c87/72057594037929800</Url>
+      <TechnicalName>RiddleMaster</TechnicalName>
+      <Description Count="0"/>
+      <Variables Count="1">
+        <Variable>
+          <TechnicalName>met</TechnicalName>
+          <Description Count="1">
+            <LocalizedString Lang="">Set to true when the player has met the Riddle Master.</LocalizedString>
+          </Description>
+          <DataType>Boolean</DataType>
+          <DefaultValue>False</DefaultValue>
+        </Variable>
+      </Variables>
+    </VariableSet>
+  </Content>
+  <Hierarchy>
+    <Node IdRef="0x0100000000000001" Type="Project">
+      <Node IdRef="0x0300000043CE43F7" Type="Flow">
+        <Node IdRef="0x010000000000073C" Type="Dialogue">
+          <Node IdRef="0x0100000000000742" Type="Condition"/>
+          <Node IdRef="0x0100000000000747" Type="Connection"/>
+          <Node IdRef="0x010000000000074A" Type="DialogueFragment"/>
+          <Node IdRef="0x0100000000000750" Type="DialogueFragment"/>
+          <Node IdRef="0x0100000000000764" Type="DialogueFragment"/>
+          <Node IdRef="0x0100000000000769" Type="Connection"/>
+          <Node IdRef="0x010000000000076B" Type="Connection"/>
+          <Node IdRef="0x0100000000000776" Type="DialogueFragment"/>
+          <Node IdRef="0x010000000000077B" Type="Connection"/>
+          <Node IdRef="0x010000000000077C" Type="DialogueFragment"/>
+          <Node IdRef="0x0100000000000781" Type="Connection"/>
+          <Node IdRef="0x0100000000000783" Type="Connection"/>
+          <Node IdRef="0x0100000000000785" Type="DialogueFragment"/>
+          <Node IdRef="0x010000000000078A" Type="Connection"/>
+          <Node IdRef="0x010000000000078C" Type="Connection"/>
+          <Node IdRef="0x010000000000078D" Type="Connection"/>
+          <Node IdRef="0x010000000000078E" Type="Connection"/>
+        </Node>
+      </Node>
+      <Node IdRef="0x030000003140D3AC" Type="Locations"/>
+      <Node IdRef="0x03000000AC61A2B3" Type="Entities">
+        <Node IdRef="0x0100000000000731" Type="Entity"/>
+        <Node IdRef="0x0100000000000757" Type="Entity"/>
+        <Node IdRef="0x0100000000000770" Type="Entity"/>
+      </Node>
+      <Node IdRef="0x030000004C3DAF54" Type="Assets">
+        <Node IdRef="0x01000000000000FE" Type="AssetsUserFolder">
+          <Node IdRef="0x010000000000075D" Type="Asset"/>
+          <Node IdRef="0x0100000000000760" Type="Asset"/>
+        </Node>
+        <Node IdRef="0x0100000000000100" Type="AssetsUserFolder"/>
+        <Node IdRef="0x0100000000000102" Type="AssetsUserFolder"/>
+        <Node IdRef="0x0100000000000104" Type="AssetsUserFolder"/>
+        <Node IdRef="0x0100000000000106" Type="AssetsUserFolder"/>
+      </Node>
+      <Node IdRef="0x0300000029CF057C" Type="ObjectTemplates">
+        <Node IdRef="0x03000000D2404DC0" Type="Features">
+          <Node IdRef="0x0100000000000008" Type="FeatureDefinition"/>
+          <Node IdRef="0x0100000000000043" Type="FeatureDefinition"/>
+          <Node IdRef="0x0100000000000128" Type="FeatureDefinition"/>
+          <Node IdRef="0x010000000000013B" Type="FeatureDefinition"/>
+          <Node IdRef="0x0100000000000148" Type="FeatureDefinition"/>
+          <Node IdRef="0x01000000000005C9" Type="FeatureDefinition"/>
+          <Node IdRef="0x01000000000006DC" Type="FeatureDefinition"/>
+        </Node>
+        <Node IdRef="0x030000009AF68DCD" Type="ObjectTemplates">
+          <Node IdRef="0x0300000078B45A71" Type="TypedObjectTemplates">
+            <Node IdRef="0x010000000000006B" Type="ObjectTemplateDefinition"/>
+            <Node IdRef="0x0100000000000095" Type="ObjectTemplateDefinition"/>
+            <Node IdRef="0x0100000000000108" Type="ObjectTemplateDefinition"/>
+            <Node IdRef="0x010000000000010A" Type="ObjectTemplateDefinition"/>
+          </Node>
+          <Node IdRef="0x030000006D1BC275" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000030B5ACF" Type="TypedObjectTemplates">
+            <Node IdRef="0x01000000000005DE" Type="ObjectTemplateDefinition"/>
+          </Node>
+          <Node IdRef="0x030000008DD5C0F2" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x0300000092CF598E" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x0300000030635118" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000A715C057" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x030000005314E813" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x030000004264B29C" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000FB371D5C" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x0300000013DF3A1A" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000ADA9FA17" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000ECC00F83" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000F514339C" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x0300000096812FC1" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000CC5A07F0" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000DCC67F9D" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000BA022E2F" Type="TypedObjectTemplates"/>
+        </Node>
+        <Node IdRef="0x030000002C0951AE" Type="PropertyTemplates">
+          <Node IdRef="0x030000006E2C178B" Type="TypedPropertyTemplates"/>
+          <Node IdRef="0x03000000BB12F1B8" Type="TypedPropertyTemplates"/>
+          <Node IdRef="0x030000006F82D78E" Type="TypedPropertyTemplates"/>
+          <Node IdRef="0x0300000037DCE3F0" Type="TypedPropertyTemplates">
+            <Node IdRef="0x010000000000010E" Type="EnumPropertyTemplate"/>
+          </Node>
+          <Node IdRef="0x030000003630A240" Type="TypedPropertyTemplates"/>
+          <Node IdRef="0x03000000D745C449" Type="TypedPropertyTemplates"/>
+        </Node>
+      </Node>
+      <Node IdRef="0x030000002B4F4C54" Type="GlobalVariables">
+        <Node IdRef="0x0100000000000748" Type="VariableSet"/>
+      </Node>
+      <Node IdRef="0x03000000103AA2F0" Type="Documents"/>
+      <Node IdRef="0x03000000236F7272" Type="Journeys"/>
+      <Node IdRef="0x03000000F917511B" Type="ProjectSettings"/>
+    </Node>
+  </Hierarchy>
+</Export>

@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>125AD50F49CAF93F36F2C912A1F049DE5C8CC80DA1B9AE3089FB3BF6DA1DBB8F</Signature>
+  <Content>
+    <Project Guid="c9f334aa-a259-432d-a684-398715f97c87">
+      <DisplayName Value="Articy Tutorial Project"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="bec49097-1bbc-4937-8f89-17c0333af38c"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="635819403490786017"/>
+      <PartitionHash Value="1696893B894C3AEEEF4E8F166EC0DEBE08934EB485CCD7929A8B452655A78E8F"/>
+      <SaveFileVersion Value="56"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
