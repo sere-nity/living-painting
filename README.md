@@ -1,10 +1,10 @@
 ## Living Painting Project
-This project is inspired by two of my favourite games: Pillars of Eternity and Disco Elysium. Both these games innovated on what was possible with 2D and 3D rendering. 
+This project is inspired by two of my favourite games: Pillars of Eternity and Disco Elysium. Both these games **innovated** on what was possible with **2D and 3D rendering.**
 
-I wanted to recreate this effect. I learnt how to use graphics debugging tools effectively during my time as a graphics intern at PlayStation. 
-so I analysed these games with RenderDoc and NVIDIA NSight. 
+I wanted to recreate this effect. I learnt how to use **graphics debugging tools** effectively during my time as a graphics intern at PlayStation. 
+so I analysed these games with **RenderDoc and NVIDIA NSight.** 
 
-I kept a digital diary of this process. Here is a snippet of my stream of consciousness thoughts - [Notion Diary Entry](https://shiny-lung-fd8.notion.site/19-06-26-Good-Insight-Into-DE-Graphics-54ed5048eeb74caaaefcacbbf5c13a32?source=copy_link) 
+I kept a **digital diary** of this process. Here is a snippet of my stream of consciousness thoughts - [Notion Diary Entry](https://shiny-lung-fd8.notion.site/19-06-26-Good-Insight-Into-DE-Graphics-54ed5048eeb74caaaefcacbbf5c13a32?source=copy_link) 
 
 A month later and I finally had a result. Most of the time I didn't even know if it was possible. 
 
@@ -30,4 +30,25 @@ Here we are parametrising the depth offset. DepthOffset allows you to adjust how
 
 ![GIF 4](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnk1c3ViOHh5cTFxeDkxN2RhdGpza3JhNDJnbHoyNzAzNjZxcmE0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RwQdeND7MjfXDaTL2G/giphy.gif)
 
-.. And here we are paraemtrising the bump power. This control the strength of the normal map and controls how sensitive the painting is to light. 
+.. And here we are paraemtrising the bump power. This control the strength of the normal map and controls how sensitive the painting is to light.
+
+### Testing with More Scenes
+
+**I 3D-modelled a bedroom scene and it took 100 hours from concept art to finished product.**
+![GIF 1](https://media.giphy.com/media/WL7Ii9A62gENwyrwiG/giphy.gif)
+
+
+This is the result of it in Unity 
+![GIF Example](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFuMW44eTlncjByamVlMmpvbmdiNWExMHltcWoxb2QzcW0xeGtociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hytgrX3lLRTYaDijj8/giphy.gif)
+
+
+I experimented with a paintover. This art-style was inspired by arcane 
+
+| <img src="https://media.giphy.com/media/Yu0GBtdY6YSDSvPx2V/giphy.gif" alt="GIF" width="400"/> | <img src="https://drive.google.com/uc?export=view&id=1Dts6T9DUJfQiNIh5pklHwwijAqoc9Khe" alt="Desk Image" width="300"/> |
+|:--:|:--:|
+| My attempted Paintover on the 3D Render | Arcane's Art Style |
+
+
+
+
+
