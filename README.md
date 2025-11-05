@@ -42,7 +42,7 @@ To test the technique at scale, I created a complete bedroom scene (100+ hours f
 
 *Concept art*
 
-![Modeling in Blender](https://media.giphy.com/media/WL7Ii9A62gENwyrwiG/giphy.gif)
+![Modeling in Blender](Assets/gif.gif)
 
 *Modeling process in Blender*
 
