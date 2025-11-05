@@ -35,12 +35,23 @@ Here we are parametrising the depth offset. DepthOffset allows you to adjust how
 ### Testing with More Scenes
 
 **I 3D-modelled a bedroom scene and it took 100 hours from concept art to finished product.**
-![GIF 1](https://media.giphy.com/media/WL7Ii9A62gENwyrwiG/giphy.gif)
+
+<img src="https://drive.google.com/uc?export=view&id=1kIco7MWHv6ngO94ZghFUmkop6qxnOGYa" alt="Concept Art" width="500"/>
+Concept Art
+
+<img src="https://media.giphy.com/media/WL7Ii9A62gENwyrwiG/giphy.gif" alt="Blender" width="500"/>
+
+![Example](https://media.giphy.com/media/WL7Ii9A62gENwyrwiG/giphy.gif)
+
+
+Modelling in Blender
+
+
 
 
 This is the result of it in Unity 
-![GIF Example](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFuMW44eTlncjByamVlMmpvbmdiNWExMHltcWoxb2QzcW0xeGtociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hytgrX3lLRTYaDijj8/giphy.gif)
 
+![GIF Example](https://media.giphy.com/media/URnJbZvc5Mrk7zLeSO/giphy.gif)
 
 I experimented with a paintover. This art-style was inspired by arcane 
 
