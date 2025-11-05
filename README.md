@@ -2,7 +2,7 @@
 This project is inspired by two of my favourite games: Pillars of Eternity and Disco Elysium. Both these games innovated on what was possible with 2D and 3D rendering. 
 
 I wanted to recreate this effect. I learnt how to use graphics debugging tools effectively during my time as a graphics intern at PlayStation. 
-so I analysed these games with RenderDoc (love this piece of software sm) and NVIDIA NSight. 
+so I analysed these games with RenderDoc and NVIDIA NSight. 
 
 I kept a digital diary of this process. Here is a snippet of my stream of consciousness thoughts - [Notion Diary Entry](https://shiny-lung-fd8.notion.site/19-06-26-Good-Insight-Into-DE-Graphics-54ed5048eeb74caaaefcacbbf5c13a32?source=copy_link) 
 
