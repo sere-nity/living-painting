@@ -36,7 +36,7 @@ The main shader code is in `BackgroundShader.shader`. The shader combines multip
 
 ### Full Scene Test
 
-To test the technique at scale, I created a complete bedroom scene (100+ hours from concept to completion):
+To test the technique at scale, I created a complete bedroom scene (100+ hours from concept to completion). I self-taught myself 3D modelling skills from scratch
 
 <img src="https://drive.google.com/uc?export=view&id=1kIco7MWHv6ngO94ZghFUmkop6qxnOGYa" alt="Bedroom concept art" width="500"/>
 
